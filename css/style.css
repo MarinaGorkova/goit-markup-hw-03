@@ -191,8 +191,8 @@ margin-left: 50px;
     padding-top: 94px;
     padding-bottom: 50px;
     background-color: white;
-    margin-right: 100px;
-    margin-left: 100px;
+    /* margin-right: 100px;
+    margin-left: 100px; */
 }
 .hero-title {
     margin-top: 0;
@@ -260,8 +260,8 @@ margin-left: 50px;
     background-color: white;
     padding-top: 94px;
     padding-bottom: 94px;
-    margin-left: 215px;
-    margin-right: 215px;
+    /* margin-left: 215px;
+    margin-right: 215px; */
 }
 .about-list {
     display: flex;
@@ -291,8 +291,8 @@ margin-left: 50px;
     padding-top: 0px;
     padding-bottom: 94px;
     background-color: white;
-    margin-left: 215px;
-    margin-right: 215px;
+    /* margin-left: 215px;
+    margin-right: 215px; */
 }
 .after-title {
     font-family: "Roboto", sans-serif;
@@ -351,8 +351,8 @@ margin-left: 50px;
     padding-top: 94px;
     padding-bottom: 94px;
     background-color: #F5F4FA;
-    margin-left: 215px;
-    margin-right: 215px;
+    /* margin-left: 215px;
+    margin-right: 215px; */
 }
 .about-item-name {
     font-family: "Roboto", sans-serif;
