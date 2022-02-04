@@ -468,12 +468,11 @@ margin-left: 50px;
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
-    margin-bottom: 9px;
+    /* margin-bottom: 9px; */
     display: inline-block;
 }
-.footer-link:last-child {
-    margin-bottom: 0;
-    
+.list2 li:not(:last-child) {
+    margin-bottom: 9px;    
 }
 
 .footer-link-adress:hover, 
